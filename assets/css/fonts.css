@@ -1,0 +1,9 @@
+@font-face {
+	font-family: "Font-Name";
+	src: url("../fonts/Intro/intro-bold-webfont.eot");
+	src: 
+	url("../fonts/Name/Font-Name.woff") format("woff"),
+	url("../fonts/Name/Font-Name.woff2") format("woff2"),
+	url("../fonts/Name/Font-Name.ttf") format("ttf"),
+	url("../fonts/Name/Font-Name.svg#Font-Name") format("svg");
+}
