@@ -1,6 +1,13 @@
 # Starter Template PHP
 
+## CSS
 
-## Starter Template 2
+CSS Class Names are recommended to have a dash (-) between words.
+
+## Javascript
+
+
+
+
 
 
