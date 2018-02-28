@@ -1,10 +1,12 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	
 	<title>Website Title</title>
 
 	<!-- Website Meta Tags -->
+	<base href="index.php">
+	<meta charset="utf-8">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="keywords" content="your, tags"/>
@@ -32,15 +34,15 @@
 	<meta name="category" content="">
 	<meta name="topic" content="">
 
-	<!-- OpenGraph Meta Tags -->
-	<meta name="og:title" content="The Rock"/>
-	<meta name="og:type" content="movie"/>
-	<meta name="og:url" content="http://www.imdb.com/title/tt0117500/"/>
-	<meta name="og:image" content="http://ia.media-imdb.com/rock.jpg"/>
+	<!-- Social Media Meta Tags -->
 	<meta name="og:site_name" content="IMDb"/>
+	<meta name="og:title" content="The Rock"/>
+	<meta name="og:type" content="website"/>
+	<meta name="og:url" content=""/>
+	<meta name="og:image" content="assets/img/meta/og-logo.jpg"/>
 	<meta name="og:description" content="A group of U.S. Marines, under command of..."/>
-	
-	
+	<meta name="twitter:card" content="summary_large_image">
+
 	<!-- Favicon Meta Tags -->
 	<link rel="apple-touch-icon" sizes="57x57" href="assets/favicon/apple-icon-57x57.png">
 	<link rel="apple-touch-icon" sizes="60x60" href="assets/favicon/apple-icon-60x60.png">
@@ -61,11 +63,8 @@
 	<meta name="theme-color" content="#ffffff">
 
 
-
 	<!-- Bootstrap CSS -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-	<!-- Grid -->
-	<link rel="stylesheet" type="text/css" href="assets/css/grid.css">
 	<!-- Theme Style -->
 	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
 
