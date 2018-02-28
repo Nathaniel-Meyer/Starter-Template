@@ -2,9 +2,7 @@
 <html>
 <head>
 	
-
-	
-	<title>Template</title>
+	<title>Website Title</title>
 
 	<!-- Website Meta Tags -->
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -43,15 +41,16 @@
 	<meta name="og:description" content="A group of U.S. Marines, under command of..."/>
 
 
-
-	
-
+	<!-- Bootstrap CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+	<!-- Grid -->
+	<link rel="stylesheet" type="text/css" href="assets/css/grid.css">
+	<!-- Theme Style -->
 	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
 
 </head>
 <body>
+	
 
-</body>
-</html>
 
 
